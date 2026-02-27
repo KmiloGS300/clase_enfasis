@@ -2,7 +2,7 @@
 FROM python:3.10-slim
 
 # Metadata GHCR
-LABEL org.opencontainers.image.source="https://github.com/kmilogs300/linea_enfasis.git"
+LABEL org.opencontainers.image.source="https://github.com/kmilogs300/enfasis_linea.git"
 
 # Environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
