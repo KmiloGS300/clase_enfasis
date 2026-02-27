@@ -1,7 +1,7 @@
 FROM python:3.11-slim
 
 # Metadata GHCR
-LABEL org.opencontainers.image.source="https://github.com/KmiloGS300/clase_enfasis"
+LABEL org.opencontainers.image.source="https://github.com/kmilogs300/clase_enfasis"
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
